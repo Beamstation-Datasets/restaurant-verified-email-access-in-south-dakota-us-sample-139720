@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in South Dakota, US
 
-> Free BeamStation sample export with 31 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `139720` |
 | Location | South Dakota |
 | Category | Restaurants |
-| Full dataset size | 311 records |
-| Free sample size | 31 records (9.97%) |
-| Last export | 2026-04-15T05:46:00.324751+00:00 |
+| Full dataset size | 55 records |
+| Free sample size | 5 records (9.09%) |
+| Last export | 2026-04-22T11:31:47.448654+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-south-dakota-us-sample-139720/releases/download/sample-latest/beamstation_139720_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
