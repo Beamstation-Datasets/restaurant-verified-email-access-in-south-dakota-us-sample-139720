@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2d02c1d2-aca3-4aa4-aacc-1680a129285c",
+  "export_job_id": "51537790-ea54-4dbe-8530-b88f586701cf",
   "id_short": 139720,
-  "published_at": "2026-04-18T07:26:16Z",
+  "published_at": "2026-04-22T19:16:32Z",
   "repo_name": "restaurant-verified-email-access-in-south-dakota-us-sample-139720",
   "sample_asset_name": "beamstation_139720_restaurants-us-sd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/139720/beamstation_139720_restaurants-us-sd_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "dad4570fded0630c761fb1e32f046d4faac7e8c4e78f0592b9a210563bc1d5c7",
-  "sample_size_bytes": 131522,
-  "total_records": 311
+  "sample_records": 5,
+  "sample_sha256": "749bf45d166300c5e431ca97fffcafa8c15edeb96fecdedb168e57b8caed261a",
+  "sample_size_bytes": 34505,
+  "total_records": 55
 }
